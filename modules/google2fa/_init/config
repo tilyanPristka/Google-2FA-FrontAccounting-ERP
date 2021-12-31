@@ -1,0 +1,10 @@
+Package: google-2fa
+Name: google-2fa
+Description: FrontAccounting Google 2FA.
+Author: Muhammad Ardyansyah <ardy@tilyanpristka.id>
+Maintenance: Muhammad Ardyansyah <ardy@tilyanpristka.id>
+Homepage: https://github.com/ardyan69/fa-google-2fa
+Type: extension
+InstallPath: modules/google-2fa
+Filename: google-2fa
+Version: 2.4.9

@@ -1,0 +1,1 @@
+ALTER TABLE `0_users` DROP IF EXISTS `google_secret_code`;

@@ -1,0 +1,1 @@
+ALTER TABLE `0_users` ADD IF NOT EXISTS `google_secret_code` VARCHAR(100) NOT NULL DEFAULT '' AFTER `password`;
